@@ -1,2 +1,13 @@
-- title: Lab Notebook
-  url: http://wiki.kaito.co
+
+# main links
+main:
+  - title: "Lab Notebook"
+    url: https://www.notion.so/suellab/
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
