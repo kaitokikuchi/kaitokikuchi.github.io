@@ -1,9 +1,7 @@
 ---
-layout: home
-description: "Personal website of Kaito Kikuchi"
-tags: []
-image:
-  feature: background-dye.jpg
-  credit: Kaito Kikuchi
-  creditlink: 
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /images/background-eclipse.jpg
 ---
