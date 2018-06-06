@@ -1,7 +1,17 @@
 ---
-layout: splash
 permalink: /
+title: About
+tags: []
+modified: 06-06-2018
+
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /images/background-eclipse.jpg
+  overlay_image: /images/background-dye.jpg
+  cta_label: "<i class='fas fa-download'></i> Download CV"
+  cta_url: "/assets/pdf/cv.pdf"
 ---
+
+I am a Ph.D student in the [Süel Lab](http://labs.biology.ucsd.edu/suel/) at UC San Diego. I am interested in quantitative analyses of microbial community dynamics, and am part of the [qBio PhD Specialization](http://qbio.ucsd.edu/). \\
+\\
+I did my Masters at the [University of Tokyo](http://park.itc.u-tokyo.ac.jp/wakamoto-lab/index_e.html) doing *E. coli* single cell observations, and was a Research Assistant at the [Systems Biology Institute](http://sbi.jp/aboutSBI.htm) mining PPi Networks. \\
+\\
+In my free time I love to cook/bake, surf, bike, travel, and drink coffee/beer.
