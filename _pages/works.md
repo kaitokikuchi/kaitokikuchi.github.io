@@ -1,13 +1,10 @@
 ---
-layout: page
 permalink: /works/
 title: Works
 description: "Past Publications and Presentations"
 tags: []
-image:
-  feature: background-dye.jpg
-  credit: Kaito Kikuchi
-  creditlink: 
+header:
+  overlay_image: /images/background-dye.jpg
 ---
 
 ## Publications
