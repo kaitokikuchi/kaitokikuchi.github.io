@@ -1,11 +1,10 @@
 ---
 permalink: /about/
 title: About
-tagline:
-tags: 
+tags: []
 modified: 06-06-2018
-comments: false
-header::
+
+header:
   overlay_image: /images/background-dye.jpg
 ---
 
