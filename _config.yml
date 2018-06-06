@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaito Kikuchi"
-  avatar           : "/images/profilepiclarge.jpg"
+  avatar           : /images/profilepiclarge.jpg
   bio              : "QBio PhD student at UC San Diego, Zen beginner, Machine Learning Learner, Python enthusiast."
   location         : "San Diego, CA"
   email            :
