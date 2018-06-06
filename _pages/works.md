@@ -4,7 +4,7 @@ title: Works
 description: "Past Publications and Presentations"
 tags: []
 header:
-  overlay_image: /images/background-bamboo.jpg
+  overlay_image: /images/background-dye.jpg
 ---
 
 ## Publications
