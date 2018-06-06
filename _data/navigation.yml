@@ -1,6 +1,8 @@
 
 # main links
 main:
+  - title: "About"
+    url: /_pages/about.md
   - title: "Works"
     url: /_pages/works.md
   - title: "Lab Notebook"

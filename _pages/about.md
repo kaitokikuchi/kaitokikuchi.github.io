@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /
+permalink: /about/
 title: About Me
 tagline:
 tags: [about]
-modified: 14-4-2014
+modified: 06-06-2018
 comments: false
 image:
   feature: background-dye.jpg
