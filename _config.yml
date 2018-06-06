@@ -262,7 +262,7 @@ compress_html:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess"]
+include: [".htaccess","_pages"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 
 
@@ -275,7 +275,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
