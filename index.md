@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "Personal Homepage of Kaito Kikuchi"
+description: "Personal website of Kaito Kikuchi"
 tags: []
 image:
   feature: background-dye.jpg
