@@ -1,15 +1,12 @@
 ---
-layout: page
 permalink: /about/
-title: About Me
+title: About
 tagline:
-tags: [about]
+tags: 
 modified: 06-06-2018
 comments: false
-image:
-  feature: background-dye.jpg
-  credit: Kaito Kikuchi
-  creditlink:
+header::
+  overlay_image: /images/background-dye.jpg
 ---
 
 I am a Ph.D student in the [Süel Lab](http://labs.biology.ucsd.edu/suel/) at UC San Diego. I am interested in quantitative analyses of microbial community dynamics, and am part of the [qBio PhD Specialization](http://qbio.ucsd.edu/). \\
