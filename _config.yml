@@ -20,7 +20,7 @@ title                    : "Kaito Kikuchi"
 title_separator          : "-"
 name                     : "Kaito Kikuchi"
 description              : "QBio PhD student at UC San Diego."
-url                      : http://www.kaito.co
+url                      : https://www.kaito.co
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/kaitokikuchi/kaitokikuchi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Kaito Kikuchi"
   avatar           : /images/profilepiclarge.jpg
-  bio              : "QBio PhD student at UC San Diego, Zen beginner, Machine Learning Learner, Python enthusiast."
+  bio              : "QBio PhD student at UC San Diego"
   location         : "San Diego, CA"
   email            :
   uri              :
