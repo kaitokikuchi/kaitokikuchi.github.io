@@ -2,9 +2,9 @@
 # main links
 main:
   - title: "About"
-    url: https://kaitokikuchi.github.io/_pages/about.md
+    url: /about/
   - title: "Works"
-    url: https://kaitokikuchi.github.io/_pages/works.md
+    url: /works/
   - title: "Lab Notebook"
     url: https://www.notion.so/suellab/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
