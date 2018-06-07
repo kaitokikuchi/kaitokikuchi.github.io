@@ -5,6 +5,7 @@ description: "Past Publications and Presentations"
 tags: []
 header:
   overlay_image: /images/background-dye.jpg
+  caption: "Photo credit: Kaito Kikuchi"
 ---
 
 ## Publications

@@ -6,6 +6,7 @@ modified: 06-06-2018
 
 header:
   overlay_image: /images/background-eclipse.jpg
+  caption: "Photo credit: Kaito Kikuchi"
   cta_label: "<i class='fas fa-download'></i> Download CV"
   cta_url: "/assets/pdf/cv.pdf"
 ---
