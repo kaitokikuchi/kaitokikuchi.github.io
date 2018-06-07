@@ -11,9 +11,7 @@ header:
 
 (as a part of The HPN-DREAM Consortium) Steven M Hill, Laura M Heiser, Thomas Cokelaer, Michael Unger, Nicole K Nesser, Daniel E Carlin, Yang Zhang, Artem Sokolov,	Evan O Paull, Chris K Wong, Kiley Graim, Adrian Bivol, Haizhou Wang, Fan Zhu, Bahman Afsari, Ludmila V Danilova, Alexander V Favorov, Wai Shing Lee, Dane Taylor, Chenyue W Hu,	Byron L Long, David P Noren, Alexander J Bisberg, **The HPN-DREAM Consortium**, Gordon B Mills, Joe W Gray,	Michael Kellen, Thea Norman, Stephen Friend, Amina A Qutub, Elana J Fertig, Yuanfang Guan, Mingzhou Song, Joshua M Stuart, Paul T Spellman, Heinz Koeppl, Gustavo Stolovitzky, Julio Saez-Rodriguez, Sach Mukherjee **Inferring causal molecular networks: empirical assessment through a community-based effort** *Nature Methods* (February 2016)
 
-Takeshi Hase[^1], **Kaito Kikuchi**[^1], Samik Ghosh[^1], Hiroaki Kitano, and Hiroshi Tanaka **"Identification of drug-target modules in the human protein-protein interaction network"** *Artificial Life and Robotics* (November 2014)
-
-[^1]: Equal contribution
+Takeshi Hase, **Kaito Kikuchi**, Samik Ghosh, Hiroaki Kitano, and Hiroshi Tanaka **"Identification of drug-target modules in the human protein-protein interaction network"** *Artificial Life and Robotics* (November 2014)
 
 
 ## Oral Presentations
