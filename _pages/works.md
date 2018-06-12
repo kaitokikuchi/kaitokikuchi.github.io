@@ -12,7 +12,7 @@ header:
 - Larkin JW, Zhai X, **Kikuchi K**, Redford S, Prindle A, Liu J, Greenfield S, Walczak AM, Garcia-Ojalvo J, Mugler A, Süel GM **"Signal Percolation within a Bacterial Community"** *Cell Systems* (in press)
 
 
-- Hill SM, Heiser LM, Cokelaer T, Unger M, Nesser NK, Carlin DE, Zhang Y, ASokolov A, Paull EO, Wong CK, Graim K, Bivol A, Wang A, Zhu F, Afsari B, Danilova LV, Favorov AV, Lee WS, Taylor D, Hu CW, Long BL, Noren DP, Bisberg AJ, **The HPN-DREAM Consortium (including Kikuchi K)**, Mills GB, Gray JW,	Kellen M, Norman T, Friend S, Qutub AA, Fertig EJ, Guan Y, Song M, Stuart JM, Spellman PT, Koeppl H, Stolovitzky G, Saez-Rodriguez J, Mukherjee S **"Inferring causal molecular networks: empirical assessment through a community-based effort"** *Nature Methods* (February 2016)
+- Hill SM, Heiser LM, Cokelaer T, Unger M, Nesser NK, Carlin DE, Zhang Y, Sokolov A, Paull EO, Wong CK, Graim K, Bivol A, Wang A, Zhu F, Afsari B, Danilova LV, Favorov AV, Lee WS, Taylor D, Hu CW, Long BL, Noren DP, Bisberg AJ, **The HPN-DREAM Consortium (including Kikuchi K)**, Mills GB, Gray JW,	Kellen M, Norman T, Friend S, Qutub AA, Fertig EJ, Guan Y, Song M, Stuart JM, Spellman PT, Koeppl H, Stolovitzky G, Saez-Rodriguez J, Mukherjee S **"Inferring causal molecular networks: empirical assessment through a community-based effort"** *Nature Methods* (February 2016)
 
 - Hase T, **Kikuchi K**, Ghosh S, Kitano H, Tanaka H **"Identification of drug-target modules in the human protein-protein interaction network"** *Artificial Life and Robotics* (November 2014)
 
