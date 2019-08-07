@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Kaito Kikuchi"
 title_separator          : "-"
 name                     : "Kaito Kikuchi"
-description              : "QBio PhD student"
+description              : "QBio PhD Candidate"
 url                      : https://www.kaito.co
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kaitokikuchi/kaitokikuchi.github.io
