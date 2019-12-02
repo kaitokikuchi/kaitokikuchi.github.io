@@ -9,13 +9,13 @@ header:
 
 ## Publications
 
-[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"} 
+[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
 Zhai X, Larkin JW, **Kikuchi K**, Redford SE, Roy U, Süel GM, Mugler A.  
 *PLoS Comput. Biol.*, December 2019  
 
 
 [Signal Percolation within a Bacterial Community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
-Larkin JW, Zhai X, **Kikuchi K**, Redford S, Prindle A, Liu J, Greenfield S, Walczak AM, Garcia-Ojalvo J, Mugler A, Süel GM   
+Larkin JW, Zhai X, **Kikuchi K**, Redford SE, Prindle A, Liu J, Greenfield S, Walczak AM, Garcia-Ojalvo J, Mugler A, Süel GM   
 *Cell Systems* (August 2018) *featured in the journal cover*
 
 
