@@ -14,7 +14,7 @@ Zhai X, Larkin JW, **Kikuchi K**, Redford SE, Roy U, Süel GM, Mugler A.
 *PLoS Computational Biology* (December 2019)  
 
 
-[Signal Percolation within a Bacterial Community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
+[Signal percolation within a bacterial community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
 Larkin JW, Zhai X, **Kikuchi K**, Redford SE, Prindle A, Liu J, Greenfield S, Walczak AM, Garcia-Ojalvo J, Mugler A, Süel GM   
 *Cell Systems* (August 2018) *\*Featured in the journal cover*
 
@@ -31,9 +31,14 @@ Hase T, **Kikuchi K**, Ghosh S, Kitano H, Tanaka H
 
 ## Talks
 
-- [Peer-Reviewed] **Kikuchi K**, Hase T, Ghosh S, Kitano H **"A network guided approach towards identification of novel drug targets in MRSA"** *8th Asian Young Researchers Conference on Computational and Omics Biology (AYRCOB)* (January 2015)
+A network guided approach towards identification of novel drug targets in MRSA  
+**Kikuchi K**, Hase T, Ghosh S, Kitano H  
+*8th Asian Young Researchers Conference on Computational and Omics Biology (AYRCOB)* (January 2015) *\*Acceptance rate: < 25%*  
 
+Role of DNA repair in Thermus thermophilus genomic integrity: Analyzing through a Homologous Recombination Detection System  
+**Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T  
+*42nd Annual Meeting of the Japanese Environmental Mutagen Society (JEMS)* (November 2013)  
 
-- **Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T **“Role of DNA repair in Thermus thermophilus genomic integrity ~Analyzing through a Homologous Recombination Detection System”** *42nd Annual Meeting of the Japanese Environmental Mutagen Society (JEMS)* (November 2013)
-
-- **Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T **“Evaluation of a Homologous Recombination Detection System in Thermus thermophilus”** *26th Summer School of Mutagenesis Mechanisms* (June 2013) 
+Evaluation of a Homologous Recombination Detection System in Thermus thermophilus  
+**Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T  
+*26th Summer School of Mutagenesis Mechanisms* (June 2013) 
