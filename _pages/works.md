@@ -33,11 +33,11 @@ Hase T, **Kikuchi K**, Ghosh S, Kitano H, Tanaka H
 
 A network guided approach towards identification of novel drug targets in MRSA  
 **Kikuchi K**, Hase T, Ghosh S, Kitano H  
-*8th Asian Young Researchers Conference on Computational and Omics Biology (AYRCOB)* (January 2015) *\*Acceptance rate: < 25%*  
+*8th Asian Young Researchers Conference on Computational and Omics Biology* (January 2015)  
 
 Role of DNA repair in Thermus thermophilus genomic integrity: Analyzing through a Homologous Recombination Detection System  
 **Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T  
-*42nd Annual Meeting of the Japanese Environmental Mutagen Society (JEMS)* (November 2013)  
+*42nd Annual Meeting of the Japanese Environmental Mutagen Society* (November 2013)  
 
 Evaluation of a Homologous Recombination Detection System in Thermus thermophilus  
 **Kikuchi K**, Ezaki K, Mera H, Hiratsu K, Nunoshiba T  
