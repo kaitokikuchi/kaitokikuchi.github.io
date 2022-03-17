@@ -3,8 +3,8 @@
 main:
   - title: "Works"
     url: /works/
-  - title: "Lab Notebook"
-    url: https://www.notion.so/suellab/
+  - title: "Hobbies"
+    url: /hobbies/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
