@@ -16,6 +16,9 @@ gallery:
   - url: /images/hobbies/kintsugi.jpeg
     image_path: /images/hobbies/kintsugi.jpeg
     title: "Old imari cup that I fixed with Kintsugi"
+  - url: /images/hobbies/urushi_spoons.jpeg
+    image_path: /images/hobbies/urushi_spoons.jpeg
+    title: "Stages of a spoon, from wood block to Urushi-lacquered"
   - url: /images/hobbies/duck.jpeg
     image_path: /images/hobbies/duck.jpeg
     title: "Roast duck with lacto-fermented white asparagus"
