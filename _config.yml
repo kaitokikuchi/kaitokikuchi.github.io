@@ -234,6 +234,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  reading:
+    output: true
+    permalink: /:collection/:path/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -277,19 +282,6 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
-      related: true
-
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
       share: true
       related: true
   # _pages
