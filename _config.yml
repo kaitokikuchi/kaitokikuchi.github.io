@@ -297,4 +297,5 @@ defaults:
       type: reading
     values:
       layout: single
+      classes: wide
       author_profile: true
