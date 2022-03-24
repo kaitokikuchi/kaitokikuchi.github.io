@@ -1,8 +1,9 @@
 ---
 title: "この骨董が、アナタです。"
 categories:
-  - Japanese
+  - reading
 tags:
+  - Japanese
   - essay
   - antiques
 ---
