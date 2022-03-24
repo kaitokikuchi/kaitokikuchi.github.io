@@ -27,6 +27,6 @@
       {% endif %}
     </h2> 
     {% include page__meta.html type=include.type %}
-    <font color = "gray">by {{ authorname }}</font> 
+    <font color = "gray">by {{ authorname }}</font> {% if post.favorite %}<font color = "gray"> ★</font>{% endif %}
   </article>
 </div>

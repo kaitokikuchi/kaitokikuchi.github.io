@@ -1,6 +1,7 @@
 ---
 title: "この骨董が、アナタです。"
 authorname: "Takashi Nakahata"
+favorite: false
 categories:
   - reading
 tags:
