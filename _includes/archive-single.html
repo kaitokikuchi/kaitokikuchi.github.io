@@ -24,5 +24,8 @@
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+    </h2> 
+    {% include page__meta.html type=include.type %}
+    <font color = "gray">{{ author }}</font> 
   </article>
 </div>
