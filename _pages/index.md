@@ -6,14 +6,14 @@ modified: 06-07-2018
 
 header:
   overlay_image: /images/background-eclipse.jpg
-  cta_label: "<i class='fas fa-download'></i> Download CV"
+  cta_label: "<i class='fas fa-download'></i> Download resume"
   cta_url: "/assets/pdf/kaitokikuchi_resume_2021_web.pdf"
 ---
 
-Hello! I'm a PhD candidate in the [Süel Lab](http://labs.biology.ucsd.edu/suel/) at UC San Diego. I'm interested in gaining systems-level insight into microbial behavior, and am currently working on bacterial electrophysiology using *Bacillus subtilis* spores as a model.
+I work at the interface between experimental and computational biology, combining imaging and data analysis to investigate weird stuff that bacteria do.  Currently I am a PhD candidate in the [Süel Lab](http://labs.biology.ucsd.edu/suel/) at UC San Diego, where I study how biological life revives from total dormancy.
 \\
 \\
-Previously, I did my Masters with [Dr. Yuichi Wakamoto](http://park.itc.u-tokyo.ac.jp/wakamoto-lab/index_e.html) at the University of Tokyo, and was also a Research Assistant at the [Systems Biology Institute](http://sbi.jp/aboutSBI.htm). Before that, I did my senior thesis with [Dr. Tatsuo Nunoshiba](https://researchers.icu.ac.jp/icuhp/KgApp?kyoinId=ymkmgiyeggy&Language=2) at International Christian University.
+Previously, I worked with [Dr. Yuichi Wakamoto](http://park.itc.u-tokyo.ac.jp/wakamoto-lab/index_e.html) at the University of Tokyo, Dr. Hiroaki Kitano at the [Systems Biology Institute](http://sbi.jp/aboutSBI.htm), and  [Dr. Tatsuo Nunoshiba](https://researchers.icu.ac.jp/icuhp/KgApp?kyoinId=ymkmgiyeggy&Language=2) at International Christian University.
 \\
 \\
-In my free time I like to cook, bake, surf, read, and travel.
+In my free time I like to cook, read, carve, or wheelthrow.
