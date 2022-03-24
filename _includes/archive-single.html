@@ -6,9 +6,10 @@
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign authorname = post.authorname | markdownify | remove: "<p>" | remove: "</p>"%}
 {% else %}
   {% assign title = post.title %}
-  {% assign author = post.authorname %}
+  {% assign authorname = post.authorname %}
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
@@ -26,6 +27,6 @@
       {% endif %}
     </h2> 
     {% include page__meta.html type=include.type %}
-    <font color = "gray">{{ author }}</font> 
+    <font color = "gray">by {{ authorname }}</font> 
   </article>
 </div>
