@@ -22,10 +22,10 @@
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> {% include page__meta.html type=include.type %}
-    <font color = "gray">by {{ authorname }}</font> {% if post.favorite %}<font color = "gray"> ★</font>{% endif %}
+    <font color = "gray"> by {{ authorname }}</font> {% if post.favorite %}<font color = "gray"> ★</font>{% endif %}
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a> {% include page__meta.html type=include.type %}
-    <font color = "gray">by {{ authorname }}</font> {% if post.favorite %}<font color = "gray"> ★</font>{% endif %}
+    <font color = "gray"> by {{ authorname }}</font> {% if post.favorite %}<font color = "gray"> ★</font>{% endif %}
       {% endif %}
     </h2> 
     
