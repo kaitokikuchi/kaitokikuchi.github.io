@@ -44,7 +44,8 @@
 }
 
 .archive__item-title {
-  display: inline-block;
+  display:  flex;
+  align-items: center;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   line-height: initial;
