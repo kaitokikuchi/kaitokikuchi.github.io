@@ -9,9 +9,11 @@ header:
 
 ## Publications
 
-[Statistics of correlated percolation in a bacterial community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007508){:target="_blank" rel="noopener"}  
-Zhai X, Larkin JW, **Kikuchi K**, Redford SE, Roy U, Süel GM, Mugler A.  
-*PLoS Computational Biology* (December 2019)  
+
+
+Electrochemical potential enables dormant spores to integrate environmental signals  
+**Kikuchi K**, Galera-Laporta L, Weatherwax C, Lam JY, Moon E, Theodorakis ET, Garcia-Ojalvo J, Süel GM
+*Science* (In Press)  
 
 
 [Signal percolation within a bacterial community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
