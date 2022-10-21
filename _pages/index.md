@@ -2,12 +2,12 @@
 permalink: /
 title: About
 tags: []
-modified: 06-07-2018
+modified: 10-21-2022
 
 header:
   overlay_image: /images/background-eclipse.jpg
   cta_label: "<i class='fas fa-download'></i> Download resume"
-  cta_url: "/assets/pdf/kaitokikuchi_resume_2021_web.pdf"
+  cta_url: "/assets/pdf/kaitokikuchi_resume_2022_web.pdf"
 ---
 
 I am a quantitative biologist/data scientist interested in using image data to quantify biology. I currently work at [Reveal Biosciences](https://www.revealbio.com/) as an Image Analysis Scientist, where I develop machine-learning based pipelines to automate digital pathology. 

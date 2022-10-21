@@ -10,10 +10,11 @@ header:
 ## Publications
 
 
-
 Electrochemical potential enables dormant spores to integrate environmental signals  
 **Kikuchi K**, Galera-Laporta L, Weatherwax C, Lam JY, Moon E, Theodorakis ET, Garcia-Ojalvo J, Süel GM  
-*Science* (In Press)  
+*Science* (October 2022)  
+cta_label: "<i class='fas fa-download'></i> PDF"
+  cta_url: "/assets/pdf/Kikuchi_Galera_Science_2022.pdf"
 
 
 [Signal percolation within a bacterial community](https://www.cell.com/cell-systems/abstract/S2405-4712%2818%2930245-X)  
