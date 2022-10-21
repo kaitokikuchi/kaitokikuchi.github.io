@@ -10,7 +10,7 @@ header:
 ## Publications
 
 
-Electrochemical potential enables dormant spores to integrate environmental signals  
+[Electrochemical potential enables dormant spores to integrate environmental signals](https://www.science.org/doi/10.1126/science.abl7484)  
 **Kikuchi K**, Galera-Laporta L, Weatherwax C, Lam JY, Moon E, Theodorakis ET, Garcia-Ojalvo J, Süel GM  
 *Science* (October 2022)  [PDF](/assets/pdf/Kikuchi_Galera_Science_2022.pdf){: .btn .btn--inverse}
 
