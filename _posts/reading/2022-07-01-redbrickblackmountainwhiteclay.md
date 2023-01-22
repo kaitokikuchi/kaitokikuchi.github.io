@@ -9,7 +9,7 @@ tags:
   - essay
   - pottery
 ---
-<span style="color:gray">[← All books](https://www.kaito.co/reading/)</span>  
+<span style="color:gray">[← All books](https://www.kaitokikuchi.com/reading/)</span>  
 
 ![image-left](/images/reading/redbrickblackmountainwhiteclay.jpg){: width="450px" .align-left} 
 

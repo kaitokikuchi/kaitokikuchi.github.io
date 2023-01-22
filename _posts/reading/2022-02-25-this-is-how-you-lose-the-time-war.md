@@ -9,7 +9,7 @@ tags:
   - novel
   - scifi
 ---
-<span style="color:gray">[← All books](https://www.kaito.co/reading/)</span>  
+<span style="color:gray">[← All books](https://www.kaitokikuchi.com/reading/)</span>  
 
 ![image-left](/images/reading/thisishowyoulosethetimewar.jpeg){: width="450px" .align-left} 
 This book is about two time-traveling superagents that initially try to kill each other but fall in love and rail against the system (?). The question mark is because the majority of the book consists of love letters that *ooze* with such angsty-edgy-teenager energy that the plot never sat with me long enough to grasp. The two superagents are female, so I do appreciate the gay scifi angle. However, that does *not* absolve the authors of the continuous barrage of "romance" that ranged from very basic to absurdly childish, while simultaneously having zero emotional resonance. Not a mean feat, this.   

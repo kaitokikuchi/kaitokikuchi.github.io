@@ -8,7 +8,7 @@ tags:
   - English
   - business
 ---
-<span style="color:gray">[← All books](https://www.kaito.co/reading/)</span>  
+<span style="color:gray">[← All books](https://www.kaitokikuchi.com/reading/)</span>  
 
 ![image-left](/images/reading/loonshots.jpeg){: width="450px" .align-left} 
 

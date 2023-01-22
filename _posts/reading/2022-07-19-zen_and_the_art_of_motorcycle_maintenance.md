@@ -9,7 +9,7 @@ tags:
   - essay
   - philosophy
 ---
-<span style="color:gray">[← All books](https://www.kaito.co/reading/)</span>  
+<span style="color:gray">[← All books](https://www.kaitokikuchi.com/reading/)</span>  
 
 ![image-left](/images/reading/zenartmotorcyclemaintenance.jpeg){: width="450px" .align-left}
 
