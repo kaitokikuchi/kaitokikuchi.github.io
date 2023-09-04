@@ -4,15 +4,6 @@ layout: single
 classes: wide
 
 gallery:
-  - url: /images/hobbies/trimming.jpeg
-    image_path: /images/hobbies/trimming.jpeg
-    title: "Trimming the foot of a cup, UCSD Craft Center"
-  - url: /images/hobbies/bisque.jpeg
-    image_path: /images/hobbies/bisque.jpeg
-    title: "Bisque fired pots waiting to be glazed"
-  - url: /images/hobbies/yunomi.jpeg
-    image_path: /images/hobbies/yunomi.jpeg
-    title: "Finished yunomi with oxidized celadon"
   - url: /images/hobbies/kintsugi.jpeg
     image_path: /images/hobbies/kintsugi.jpeg
     title: "Old imari cup that I fixed with Kintsugi"

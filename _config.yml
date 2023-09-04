@@ -20,7 +20,7 @@ title                    : "Kaito Kikuchi"
 title_separator          : "-"
 name                     : "Kaito Kikuchi"
 description              : "Quantitative Microbiologist"
-url                      : https://www.kaito.co
+url                      : https://www.kaitokikuchi.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kaitokikuchi/kaitokikuchi.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Kaito Kikuchi"
   avatar           : /images/profilepiclarge.jpg
-  bio              : "Quantitative Microbiologist"
+  bio              : "Quantitative Biologist"
   location         : "San Diego, CA"
   email            :
   uri              :
