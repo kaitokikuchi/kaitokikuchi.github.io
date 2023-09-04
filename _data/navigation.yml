@@ -3,6 +3,8 @@
 main:
   - title: "Works"
     url: /works/
+  - title: "Pottery"
+    url: /pottery/
   - title: "Hobbies"
     url: /hobbies/
   - title: "Reading"
