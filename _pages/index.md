@@ -7,7 +7,7 @@ modified: 09-06-2023
 header:
   overlay_image: /images/background-eclipse.jpg
   cta_label: "<i class='fas fa-download'></i> Download resume"
-  cta_url: "/assets/pdf/kaitokikuchi_resume_2022_web.pdf"
+  cta_url: "/assets/pdf/kaito_kikuchi_resume_2024_web.pdf"
 ---
 
 I'm a quantitative biologist/data scientist currently developing machine-learning pipelines for digital pathology at [Reveal Biosciences](https://www.revealbio.com/). I'm generally interested in applying machine learning to biological problems, and I'm particularly interested in the intersection of machine learning and microscopy. I'm also interested in the intersection of machine learning and pottery, but that's a different story.
