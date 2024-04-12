@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Kaito Kikuchi"
 title_separator          : "-"
 name                     : "Kaito Kikuchi"
-description              : "Quantitative Microbiologist"
+description              : "Quantitative Biologist"
 url                      : https://www.kaitokikuchi.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kaitokikuchi/kaitokikuchi.github.io
