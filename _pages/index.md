@@ -7,7 +7,7 @@ modified: 04-12-2024
 header:
   overlay_image: /images/background-eclipse.jpg
   cta_label: "<i class='fas fa-download'></i> Download resume"
-  cta_url: "/assets/pdf/kaito_kikuchi_resume_2024.pdf"
+  cta_url: "/assets/pdf/kaito_kikuchi_resume_2025_web.pdf"
 ---
 
 I'm a computational biologist/data scientist currently at [ThinkCyte](https://thinkcyte.com/). I'm generally interested in applying machine learning to biological problems, and also enjoy thinking about better workflows to analyze biological data.
